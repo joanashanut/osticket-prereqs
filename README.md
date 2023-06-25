@@ -14,12 +14,9 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <h2>Environments and Technologies Used</h2>
 
 - Microsoft Azure (Virtual Machines/Compute)
-- Internet Information Services (IIS)
-- PHP Manager
-- Rewrite Module
-- VC Redist
-- MySQL and Heidi SQl
-- osTicket v1.15.8
+- Azure Network Security Groups (Firewall Resource)
+- Software tools such as Wireshark(protocol analyzer)
+- Command line tools
 
 <h2>Operating Systems Used </h2>
 
@@ -28,9 +25,12 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <h2>List of Prerequisites</h2>
 
 - Azure virtual machines(Windows and Linux(Ubuntu)
-- Azure Network Security Groups (Firewall Resource)
-- Software tools such as wireshark(protocol analyzer)
-- Command line tools
+- Internet Information Services (IIS)
+- PHP Manager
+- Rewrite Module
+- VC Redist
+- MySQL and Heidi SQl
+- osTicket v1.15.8
 
 <h2>Installation Steps</h2>
 
