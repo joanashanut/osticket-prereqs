@@ -14,8 +14,12 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <h2>Environments and Technologies Used</h2>
 
 - Microsoft Azure (Virtual Machines/Compute)
-- Remote Desktop
 - Internet Information Services (IIS)
+- PHP Manager
+- Rewrite Module
+- VC Redist
+- MySQL and Heidi SQl
+- osTicket v1.15.8
 
 <h2>Operating Systems Used </h2>
 
